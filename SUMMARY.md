@@ -142,3 +142,5 @@
     * [端口扫描和主机发现](2-29红队笔记/基础红队知识/端口扫描和主机发现.md)
   * [靶场总结知识](229-hong-dui-bi-ji/ba-chang-zong-jie-zhi-shi/README.md)
     * [靶场攻击1](2-29红队笔记/靶场总结知识/靶场攻击1.md)
+* [pwn二进制漏洞](pwn-er-jin-zhi-lou-dong/README.md)
+  * [pwn二进制漏洞](pwn二进制漏洞/pwn二进制漏洞.md)
